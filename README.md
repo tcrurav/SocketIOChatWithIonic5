@@ -2,8 +2,8 @@
 
 This project is just a project example to learn how to use Socket.IO in Ionic 5 (frontend) and NodeJS (backend) to create a simple Chat example.
 
-![screenshots](https://github.com/tcrurav/Ionic5NodeAuthBasic/blob/master/screenshots/screenshot-1-left.png)
-![screenshots](https://github.com/tcrurav/Ionic5NodeAuthBasic/blob/master/screenshots/screenshot-1-right.png)
+![screenshots](https://github.com/tcrurav/SocketIOChatWithIonic5/blob/master/screenshots/screenshot-1-left.png)
+![screenshots](https://github.com/tcrurav/SocketIOChatWithIonic5/blob/master/screenshots/screenshot-1-right.png)
 
 ## Getting Started
 
